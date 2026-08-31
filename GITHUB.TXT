@@ -1,0 +1,11 @@
+git init
+
+git add .
+
+git commit -m "Add scalable IoT architecture project"
+
+git branch -M main
+
+git remote add origin https://github.com/YOUR-USERNAME/scalable-iot-architecture.git
+
+git push -u origin main
